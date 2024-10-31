@@ -11,7 +11,7 @@ from langchain_groq import ChatGroq
 
 # os.environ["GOOGLE_API_KEY"]= "AIzaSyAx-qltSJhTnuyyJgBMtBaKqz8LIeuXUrs"
 
-GROQ_API = "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"
+GROQ_API = "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"
 
 
 llm = ChatGroq(temperature=0,
